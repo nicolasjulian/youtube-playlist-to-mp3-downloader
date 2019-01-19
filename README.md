@@ -5,5 +5,3 @@ $ git clone https://github.com/nicolasjulian/youtube-playlist-to-mp3-downloader.
 $ cd youtube-playlist-to-mp3-downloader
 $ chmod +x Youtube-Playlist-Downloader.sh
 $ ./Youtube-Playlist-Downloader.sh
-
-Enjoy :D
