@@ -1,5 +1,5 @@
 # youtube-playlist-to-mp3-downloader
-Tools for download playlist to mp3 from youtube
+Tools for download youtube playlist to mp3 
 
 <pre>
 $ git clone https://github.com/nicolasjulian/youtube-playlist-to-mp3-downloader.git
