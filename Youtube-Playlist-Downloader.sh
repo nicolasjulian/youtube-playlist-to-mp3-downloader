@@ -49,7 +49,7 @@ cat <<EOF
 
 EOF
 
-read -p "1 Playlist or More than one ? :  " choicetool
+read -p "1 Playlist or More than one ?(1/2) :  " choicetool
 
 download_request(){   	
 #Sending request to update and download		
