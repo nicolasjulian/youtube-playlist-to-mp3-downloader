@@ -105,7 +105,7 @@ fi
 while true ; do
 	proses
 	read -p "Do You Want to Download Another Again ?(y/n) :" agik
-	if [[ agik == n ]]; then
+	if [[ $agik == n ]]; then
 		exit
 	fi
 done
